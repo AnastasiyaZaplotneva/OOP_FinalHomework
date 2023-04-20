@@ -1,0 +1,18 @@
+апр. 20, 2023 6:08:09 PM org.example.CalcLogger createLog
+INFO: Программа запущена
+апр. 20, 2023 6:08:16 PM org.example.CalcLogger createLog
+INFO:  (1.0 + 2.0i) 
+апр. 20, 2023 6:08:26 PM org.example.CalcLogger createLog
+INFO: +
+апр. 20, 2023 6:08:26 PM org.example.CalcLogger createLog
+INFO:  (3.0 + 2.0i) 
+апр. 20, 2023 6:08:28 PM org.example.CalcLogger createLog
+INFO:  = 4.0 + 4.0i
+апр. 20, 2023 6:08:40 PM org.example.CalcLogger createLog
+INFO:  (3.0 + 4.0i) 
+апр. 20, 2023 6:08:43 PM org.example.CalcLogger createLog
+INFO: /
+апр. 20, 2023 6:08:43 PM org.example.CalcLogger createLog
+INFO:  (4.0 + 3.0i) 
+апр. 20, 2023 6:08:45 PM org.example.CalcLogger createLog
+INFO:  = 0.96 + 0.28i
